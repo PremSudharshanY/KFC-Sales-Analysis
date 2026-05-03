@@ -1,4 +1,4 @@
-<img width="1538" height="867" alt="Screenshot 2026-05-03 123337" src="https://github.com/user-attachments/assets/9fa70e5c-f1c1-4720-bd70-897cbb8ac222" /><img width="1538" height="867" alt="Screenshot 2026-05-03 123337" src="https://github.com/user-attachments/assets/a8e5c072-3a68-4dcd-991d-9ddcf0e58058" /># 🍗 KFC Sales & Operations Analytics Dashboard  
+# 🍗 KFC Sales & Operations Analytics Dashboard  
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerBI-Dashboard-red?style=for-the-badge&logo=powerbi" />
