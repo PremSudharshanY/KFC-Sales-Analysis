@@ -155,5 +155,5 @@ This project demonstrates how data analytics can:
 
 ## 📬 Contact
 💼 Open to **Data Analyst Opportunities**  
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-📧 Email: premscott4@@gmail.com
+🔗 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/prem-sudharshan-870a48375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📧 Email: premscott4@gmail.com
